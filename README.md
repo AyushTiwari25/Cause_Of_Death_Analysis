@@ -20,8 +20,8 @@ git clone https://github.com/AyushTiwari25/Cause_Of_Death_Analysis.git
 ## **📊 Dataset Overview**
 
 ### **🔢 Dataset Structure**
-- **Number of Records:** `X` rows
-- **Attributes:** `Y` features
+- **Number of Records:** `6120` rows
+- **Attributes:** `34` features
 
 ### **🗂️ Key Dataset Attributes**
 The dataset encompasses various dimensions critical to understanding mortality trends. Below are some key attributes:
